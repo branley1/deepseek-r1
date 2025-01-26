@@ -68,7 +68,7 @@ The chatbot currently uses the DeepSeek-R1 model, but you can configure it to us
 
   ```bash
     streamlit run test2.py
-   ```
+  ```
 
   
 
