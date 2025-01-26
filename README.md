@@ -62,13 +62,16 @@ The chatbot currently uses the DeepSeek-R1 model, but you can configure it to us
     ```
 
   There's also two test files with different models that can be tried out: 
+   
+   Test 1:
    ```bash
     streamlit run test.py
    ```
-
-  ```bash
+    
+   Test 2:
+   ```bash
     streamlit run test2.py
-  ```
+   ```
 
   
 
